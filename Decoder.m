@@ -8,6 +8,7 @@
 
 #import <CoreAudio/CoreAudioTypes.h>
 #import "Decoder.h"
+#import <OpenGLES/ES2/gl.h>
 
 /// Use another thread to decode audio and add it to
 /// the audio buffer

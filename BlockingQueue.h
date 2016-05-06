@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "CHDataStructures.h"
+//#import "CHDataStructures.h"
+#import <CHDataStructures/CHDataStructures.h>
 
 @interface BlockingQueue : CHCircularBuffer
 - (int) size;
